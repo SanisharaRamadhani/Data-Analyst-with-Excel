@@ -1,2 +1,4 @@
+Project untuk mengetahui perjalanan Data Analyst mulai dari Beginner to Advanced.
+
 # Data-Analyst-with-Excel
-beginner to advance progress in data analyst with excel
+
